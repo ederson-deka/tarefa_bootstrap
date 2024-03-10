@@ -1,0 +1,22 @@
+#conteudo1{
+  background-color: aquamarine;
+}
+#conteudo3{
+  background-color: aquamarine;
+}
+h2 {
+  color:black;
+  padding-top: 10px;
+}
+h3 {
+  color: brown;
+}
+p{
+  color: black;
+  font-size: 18px;
+}
+
+li {
+  padding-left: 20px;
+  font-size: 18px;
+}
